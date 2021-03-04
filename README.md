@@ -1,0 +1,2 @@
+# hadoop_mapreduce
+This is the final project of my big data Bootcamp. I implemented a cluster(4 virtual machines) of hdfs (ha style) system and another yarn system(2 resource managers and 3 node manager with ha style). After building it, I wrote a topn java code and deployed it to my hadoop. This topn code is to find two days with the highest temperature in our dataset according to our learnt knowledge.
